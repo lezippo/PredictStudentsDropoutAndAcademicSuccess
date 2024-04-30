@@ -4,6 +4,9 @@ Prediction of students' dropout using classification models. Data visualisation,
 ## Introduction
 This study utilizes data from Portalegre Polytechnic University (IPP), Portugal, to develop machine learning classification models aimed at predicting students’ dropout and academic success. The objective is to identify students facing potential difficulties in their academic journey at an early stage, enabling the implementation of support strategies. The dataset includes information such as educational background, demographic data, and socio-economic factors. The problem is formulated as a classification task, with a focus on identifying minority classes such as dropout cases.
 
+## Data Source
+Realinho,Valentim, Vieira Martins,Mónica, Machado,Jorge, and Baptista,Luís. (2021). Predict Students' Dropout and Academic Success. UCI Machine Learning Repository. https://doi.org/10.24432/C5MC89
+
 ## Exploratory Data Analysis
 The dataset comprises structured data on students enrolled between academic years 2008/09-2018/2019 in various degree courses. It includes demographic, socio-economic, and educational background variables. Data visualization techniques are employed to analyze relationships between features. Key observations include the unbalanced distribution of student records among three classes: 'Graduate', 'Enrolled', and 'Dropout'.
 
